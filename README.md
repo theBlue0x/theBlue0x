@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### Welcome to the Blue0x GitHub Repository!
 
 #### "Together. We Are The Bank."
