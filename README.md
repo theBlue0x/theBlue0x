@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to the Blue0x GitHub Repository!  Take a look around!
+#### Welcome to the Blue0x GitHub Repository!
 
 Here are some links to help you navigate the Blue0x Network:
 
