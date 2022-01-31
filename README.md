@@ -2,7 +2,7 @@
 
 #### "Together. We Are The Bank."
 
-To learn more about the Blue0x Network, you can 
+To learn more about the Blue0x Network,
 
 visit [learn.blue0x.com](https://learn.blue0x.com) or 
 
