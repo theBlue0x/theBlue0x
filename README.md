@@ -15,7 +15,7 @@
 - Visit [Blue0x | LEARN](https://learn.blue0x.com)
 - Chat with us on [Discord!](https://discord.gg/EbBWRSPW63)
 
-##### To Get Started Early:
+##### To Get Started Now:
 - [Setup a Blue0x Decentralized Public Node](https://learn.blue0x.com/setup/vps)
 
 
