@@ -17,7 +17,7 @@
 
 ##### To Get Started Now:
 - [Deploy a Blue0x Decentralized Public Node](https://learn.blue0x.com/setup/vps)
-- [Download the Blue0x Desktop Wallet](https://learn.blue0x.com/setup/local)
+- [Setup a Blue0x Desktop Wallet](https://learn.blue0x.com/setup/local)
 
 
 
