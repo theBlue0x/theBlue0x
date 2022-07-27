@@ -2,7 +2,7 @@
 
 #### "Together. We Are The Bank."
 
-![GitHub last commit](https://img.shields.io/github/last-commit/theBlue0x/node?color=success)  [![Discord](https://img.shields.io/discord/823558528212008961?logo=discord)](https://discord.gg/EbBWRSPW63)
+![GitHub last commit](https://img.shields.io/github/last-commit/theBlue0x/market?color=success)  [![Discord](https://img.shields.io/discord/823558528212008961?logo=discord)](https://discord.gg/EbBWRSPW63)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
