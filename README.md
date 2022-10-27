@@ -12,8 +12,8 @@
 
 ##### To Learn More About The Blue0x Network:
 
-- Visit [Blue0x.com](https://blue0x.com) - Under Further Development
-- Check out [Blue0x | LEARN](https://learn.blue0x.com) - Under Further Development
+- Visit [Blue0x.com](https://blue0x.com) (Update underway)
+- Check out [Blue0x | LEARN](https://learn.blue0x.com) (Update underway)
 - Chat with us on [Discord!](https://discord.gg/EbBWRSPW63)
 
 ##### To Get Started Now:
