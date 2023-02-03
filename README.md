@@ -19,7 +19,7 @@
 ##### To Get Started Now:
 - [Connect to the Blue0x Network](https://learn.blue0x.com/connect)
 - [Deploy a Blue0x Decentralized Public Node](https://learn.blue0x.com/connect/vps)
-- [Verify Your Blue0x Node](https://blue0x.com/verify.html)
+- [Verify Your Blue0x Node](https://blue0x.com/node.html)
 - [View Blue0x Network Stats](https://blue0x.com/status.html)
  
 
