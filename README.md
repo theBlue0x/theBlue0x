@@ -12,10 +12,11 @@
 ##### To Learn More About The Blue0x Network:
 
 - Visit [Blue0x.com](https://blue0x.com)
-- Check out [Blue0x | LEARN](https://learn.blue0x.com) (Currently Being Updated!)
+- View the [Blue0x Exchange](https://exchange.blue0x.com) (Currently Being Updated!)
+- View the [Blue0x Market](https://market.blue0x.com) (Currently Being Updated!)
+- [Learn](https://learn.blue0x.com) more about Blue0x (Currently Being Updated!)
 - Chat with us on [Discord!](https://discord.gg/EbBWRSPW63)
-- View the Blue0x [Exchange](https://exchange.blue0x.com) (Currently Being Updated!)
-- View the Blue0x [Market](https://market.blue0x.com) (Currently Being Updated!)
+
 
 ##### To Get Started Now:
 - [Connect to the Blue0x Network](https://learn.blue0x.com/connect)
