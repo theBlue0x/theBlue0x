@@ -12,9 +12,9 @@
 ##### To Learn More About The Blue0x Network:
 
 - [Visit Blue0x.com](https://blue0x.com)
+- [Learn more about the Blue0x Network](https://learn.blue0x.com) (Currently Being Updated!)
 - [View the Blue0x Exchange](https://exchange.blue0x.com) (Currently Being Updated!)
 - [View the Blue0x Market](https://market.blue0x.com) (Currently Being Updated!)
-- [Learn more about Blue0x](https://learn.blue0x.com) (Currently Being Updated!)
 - [View Blue0x Network Stats](https://blue0x.com/status.html)
 - [Chat with us on Discord!](https://discord.gg/EbBWRSPW63)
 
