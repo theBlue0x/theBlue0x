@@ -16,7 +16,7 @@
 - View the [Blue0x Exchange](https://exchange.blue0x.com) (Currently Being Updated!)
 - View the [Blue0x Market](https://market.blue0x.com) (Currently Being Updated!)
 - View [Blue0x Network Stats](https://blue0x.com/status.html)
-- Chat with us on [Discord!](https://discord.gg/EbBWRSPW63)
+- [Chat](https://discord.gg/EbBWRSPW63) with us on Discord!
 
 
 ##### To Get Started Now:
