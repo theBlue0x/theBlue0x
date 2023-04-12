@@ -13,7 +13,7 @@
 
 - Visit [Blue0x.com](https://blue0x.com)
 - [Learn](https://learn.blue0x.com) more about the Blue0x Network (Currently Being Updated!)
-- View the [Blue0x Exchange](https://exchange.blue0x.com) (Currently Being Updated!)
+- View the [Blue0x Exchange](https://exchange.blue0x.com)  (Currently Being Updated!)
 - View the [Blue0x Market](https://market.blue0x.com) (Currently Being Updated!)
 - View [Blue0x Network Stats](https://blue0x.com/status.html)
 - [Chat](https://discord.gg/EbBWRSPW63) with us on Discord!
