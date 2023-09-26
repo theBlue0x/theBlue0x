@@ -1,3 +1,8 @@
+a {
+text-decoration: none;
+box-shadow: none;
+}
+
 ## Welcome to the Blue0x Github Repository ##
 
 #### "Together. We Are The Bank." ####
