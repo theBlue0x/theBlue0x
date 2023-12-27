@@ -11,12 +11,7 @@
 **To Learn More About The Blue0x Network:**
 
 - Visit [Blue0x.com](https://blue0x.com)
-- View the [Blue0x Exchange](https://exchange.blue0x.com)  (Currently Being Updated!)
 - [Chat](https://discord.gg/EbBWRSPW63) with us on Discord!
-
-**To Get Started Now:**
-- [Connect to the Blue0x Network](https://learn.blue0x.com/connect)
-- [Deploy a Blue0x Decentralized Public Node](https://learn.blue0x.com/connect/vps)
  
 
 
