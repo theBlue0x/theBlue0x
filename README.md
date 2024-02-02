@@ -11,9 +11,7 @@
 
 **To Learn More About The Blue0x Network:**
 
-- Visit [Blue0x.com](https://blue0x.com)
-- [Chat](https://discord.gg/EbBWRSPW63) with us on Discord!
- 
+- Visit [Blue0x.com](https://blue0x.com) 
 
 
 
