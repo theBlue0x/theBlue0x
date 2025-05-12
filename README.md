@@ -12,7 +12,7 @@ Made with:
 
 **To Learn More:**
 
-Chat with us
+Chat with us on Discord:
 
 [![Discord](https://img.shields.io/discord/823558528212008961?logo=discord)](https://discord.gg/EbBWRSPW63)
 
