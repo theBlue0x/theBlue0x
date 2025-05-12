@@ -2,8 +2,7 @@
 ---
 **"Together. We Are The Bank."**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/theBlue0x/website?color=success)  [![Discord](https://img.shields.io/discord/823558528212008961?logo=discord)](https://discord.gg/EbBWRSPW63)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/theBlue0x/website?color=success)  
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg)
@@ -11,7 +10,8 @@
 
 **To Learn More About The Blue0x Network:**
 
-- Visit [Blue0x.com](https://blue0x.com) 
+- Visit [Blue0x.com](https://blue0x.com)
+- Chat with us [![Discord](https://img.shields.io/discord/823558528212008961?logo=discord)](https://discord.gg/EbBWRSPW63)
 
 
 
